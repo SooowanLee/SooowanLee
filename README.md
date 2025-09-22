@@ -55,7 +55,7 @@
   <div>
     <h2 style="color:#282d33;">📫 Contact me</h2>
     <div>
-      <a href="https://developer-soo.tistory.com">
+      <a href="https://developer-soo.tistory.com" target="_blank">
         <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logoColor=white">
       </a>
       <a href="mailto:lsy9406@gmail.com">
